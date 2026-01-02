@@ -1,16 +1,44 @@
-## Hi there 👋
+# Siddharth Sameer
 
-<!--
-**sid00-byte/sid00-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Master's student in Computer Engineering.  
+This GitHub contains academic projects, personal work, and experiments across
+software development, data engineering, and embedded software systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Software Development
+- Programming fundamentals
+- Data structures and algorithms
+- Object-oriented programming
+- Backend basics
+
+Repositories:
+- programming-basics
+- data-structures
+- oop-practice
+
+---
+
+## Data Engineering
+- Data ingestion and transformation logic
+- SQL and data modeling
+- Distributed systems concepts
+
+Repositories:
+- data-engineering-notes
+- mini-etl-framework
+
+---
+
+## Embedded Software Development
+- Microcontroller-based programming
+- Sensor interfacing
+- Control and timing logic
+
+Repositories:
+- embedded-systems-projects
+
+---
+
+## Tools & Languages
+Python • C++ • SQL • Git • Linux
