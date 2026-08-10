@@ -14,30 +14,18 @@ This GitHub contains projects focused on application development, system design,
 ## Featured Projects
 
 ### ⚡ Java Order Book Matching Engine
-A real-time event-driven order matching system built in Java.
-
-Highlights:
-- Price-time priority order matching for limit and market orders
-- Object-oriented design for order management and trade execution
-- TCP socket-based client-server communication
-- Concurrent client handling and sequence management
-- SQLite-based trade persistence
-- Java Swing dashboard for real-time order book visualization
-
 Repository:
 - OrderBookEngine
 
 ---
 
 ### 🤖 AI-Powered Financial Query Engine
-A backend application that converts natural language queries into executable SQL.
+Repository:
+- AI-powered-financial-query-engine
+  
+---
 
-Highlights:
-- REST API development using FastAPI
-- LLM-based SQL generation
-- Query validation and execution safeguards
-- Database integration and error handling workflows
-
+### 🤖 AI-Powered Financial Query Engine
 Repository:
 - AI-powered-financial-query-engine
 
