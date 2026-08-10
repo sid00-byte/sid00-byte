@@ -19,7 +19,7 @@ Repository:
 
 ---
 
-### 🤖 C++ Event-Study-Framework
+### ⚡ C++ Event-Study-Framework
 Repository:
 - Cpp-Event-Study-Framework
   
