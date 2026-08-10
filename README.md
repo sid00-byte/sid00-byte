@@ -19,71 +19,15 @@ Repository:
 
 ---
 
-### 🤖 AI-Powered Financial Query Engine
+### 🤖 C++ Event-Study-Framework
 Repository:
-- AI-powered-financial-query-engine
+- Cpp-Event-Study-Framework
   
 ---
 
 ### 🤖 AI-Powered Financial Query Engine
 Repository:
 - AI-powered-financial-query-engine
-
----
-
-## Software Development
-
-Areas of interest:
-- Object-oriented programming
-- Backend application development
-- REST APIs
-- Data structures and algorithms
-- Database-driven applications
-- Software debugging and testing
-
----
-
-## Data Engineering
-
-Professional experience with:
-- Large-scale data processing
-- SQL and data modeling
-- Distributed data workflows
-- Cloud-based data applications
-
-Technologies:
-- Scala
-- Apache Spark
-- Databricks
-- Azure
-- SQL
-
----
-
-## Systems & Computer Science
-
-Projects and coursework involving:
-- Multithreading
-- Computer architecture
-- Operating systems concepts
-- Networking fundamentals
-- Performance optimization
-
----
-
-## Technologies
-
-### Languages
-Java • Python • C++ • Scala • SQL • JavaScript
-
-### Backend
-REST APIs • FastAPI • TCP Socket Programming • Object-Oriented Design
-
-### Databases
-SQLite • PostgreSQL • MS SQL Server • MongoDB • Cosmos DB
-
-### Tools
-Git • Linux • Docker • AWS • Azure • VS Code
 
 ---
 
